@@ -1,0 +1,44 @@
+name: Daily Trend Fetch
+
+on:
+  schedule:
+    # Run at 3:00 AM UTC every day
+    - cron: '0 3 * * *'
+  # Allow manual trigger for testing
+  workflow_dispatch:
+
+jobs:
+  fetch-trends:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 9
+      
+      - name: Install dependencies
+        run: pnpm install
+      
+      - name: Run daily trend fetch
+        run: pnpm exec ts-node scripts/daily-cron-json.ts
+      
+      - name: Commit and push trends data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add trends-data.json
+          git commit -m "Update trends data - $(date)" || echo "No changes to commit"
+          git push
+      
+      - name: Log execution
+        if: always()
+        run: echo "Cron job completed at $(date)"
