@@ -29,11 +29,15 @@ jobs:
         run: pnpm install
       
       - name: Run daily trend fetch
-        env:
-          SOCIAVAULT_API_KEY: ${{ secrets.SOCIAVAULT_API_KEY }}
-          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
-          DATABASE_URL: ${{ secrets.DATABASE_URL }}
-        run: pnpm exec ts-node scripts/daily-cron-orchestrator.ts
+        run: pnpm exec ts-node scripts/daily-cron-json.ts
+      
+      - name: Commit and push trends data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add trends-data.json
+          git commit -m "Update trends data - $(date)" || echo "No changes to commit"
+          git push
       
       - name: Log execution
         if: always()
