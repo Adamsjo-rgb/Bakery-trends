@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-09T06:30:45.640823",
-  "generatedAt": "2026-07-09T06:30:45.640832",
+  "lastUpdated": "2026-07-10T06:30:19.559295",
+  "generatedAt": "2026-07-10T06:30:19.559301",
   "version": "2.0.0",
   "regions": [
     "uk",
@@ -13,14 +13,14 @@
       "id": "uk-trend-1",
       "rank": 1,
       "name": "tiramisu",
-      "summary": "tiramisu is trending in United Kingdom with 78/100 Google Trends score and 130 recent news articles",
+      "summary": "tiramisu is trending in United Kingdom with 78/100 Google Trends score and 244 recent news articles",
       "category": "sweet",
       "examples": [
         "tiramisu trend example 1",
         "tiramisu trend example 2",
         "tiramisu trend example 3"
       ],
-      "opportunity": "Capitalize on the tiramisu trend with creative menu items and social content. Currently trending with 130 news mentions.",
+      "opportunity": "Capitalize on the tiramisu trend with creative menu items and social content. Currently trending with 244 news mentions.",
       "hashtags": [
         "#tiramisu",
         "#bakerytok",
@@ -54,23 +54,23 @@
       "platformSignals": [
         {
           "platform": "Instagram",
-          "mentions": 16880
+          "mentions": 5794
         },
         {
           "platform": "TikTok",
-          "mentions": 11760
+          "mentions": 19588
         },
         {
           "platform": "X",
-          "mentions": 2140
+          "mentions": 3882
         },
         {
           "platform": "Pinterest",
-          "mentions": 10520
+          "mentions": 6176
         },
         {
           "platform": "Reddit",
-          "mentions": 3200
+          "mentions": 1770
         }
       ]
     },
@@ -78,14 +78,14 @@
       "id": "uk-trend-2",
       "rank": 2,
       "name": "croissant",
-      "summary": "croissant is trending in United Kingdom with 72/100 Google Trends score and 133 recent news articles",
+      "summary": "croissant is trending in United Kingdom with 72/100 Google Trends score and 199 recent news articles",
       "category": "bread",
       "examples": [
         "croissant trend example 1",
         "croissant trend example 2",
         "croissant trend example 3"
       ],
-      "opportunity": "Capitalize on the croissant trend with creative menu items and social content. Currently trending with 133 news mentions.",
+      "opportunity": "Capitalize on the croissant trend with creative menu items and social content. Currently trending with 199 news mentions.",
       "hashtags": [
         "#croissant",
         "#bakerytok",
@@ -119,23 +119,23 @@
       "platformSignals": [
         {
           "platform": "Instagram",
-          "mentions": 8883
+          "mentions": 7149
         },
         {
           "platform": "TikTok",
-          "mentions": 25766
+          "mentions": 12298
         },
         {
           "platform": "X",
-          "mentions": 3149
+          "mentions": 2947
         },
         {
           "platform": "Pinterest",
-          "mentions": 8532
+          "mentions": 11596
         },
         {
           "platform": "Reddit",
-          "mentions": 2215
+          "mentions": 2545
         }
       ]
     },
@@ -143,14 +143,14 @@
       "id": "uk-trend-3",
       "rank": 3,
       "name": "pistachio croissant",
-      "summary": "pistachio croissant is trending in United Kingdom with 68/100 Google Trends score and 150 recent news articles",
+      "summary": "pistachio croissant is trending in United Kingdom with 68/100 Google Trends score and 117 recent news articles",
       "category": "savoury",
       "examples": [
         "pistachio croissant trend example 1",
         "pistachio croissant trend example 2",
         "pistachio croissant trend example 3"
       ],
-      "opportunity": "Capitalize on the pistachio croissant trend with creative menu items and social content. Currently trending with 150 news mentions.",
+      "opportunity": "Capitalize on the pistachio croissant trend with creative menu items and social content. Currently trending with 117 news mentions.",
       "hashtags": [
         "#pistachiocroissant",
         "#bakerytok",
@@ -184,23 +184,23 @@
       "platformSignals": [
         {
           "platform": "Instagram",
-          "mentions": 7300
+          "mentions": 14267
         },
         {
           "platform": "TikTok",
-          "mentions": 22600
+          "mentions": 16534
         },
         {
           "platform": "X",
-          "mentions": 3400
+          "mentions": 4301
         },
         {
           "platform": "Pinterest",
-          "mentions": 12200
+          "mentions": 10068
         },
         {
           "platform": "Reddit",
-          "mentions": 3300
+          "mentions": 2135
         }
       ]
     },
@@ -208,14 +208,14 @@
       "id": "uk-trend-4",
       "rank": 4,
       "name": "macarons",
-      "summary": "macarons is trending in United Kingdom with 65/100 Google Trends score and 65 recent news articles",
+      "summary": "macarons is trending in United Kingdom with 65/100 Google Trends score and 178 recent news articles",
       "category": "laminated",
       "examples": [
         "macarons trend example 1",
         "macarons trend example 2",
         "macarons trend example 3"
       ],
-      "opportunity": "Capitalize on the macarons trend with creative menu items and social content. Currently trending with 65 news mentions.",
+      "opportunity": "Capitalize on the macarons trend with creative menu items and social content. Currently trending with 178 news mentions.",
       "hashtags": [
         "#macarons",
         "#bakerytok",
@@ -249,23 +249,23 @@
       "platformSignals": [
         {
           "platform": "Instagram",
-          "mentions": 11815
+          "mentions": 8528
         },
         {
           "platform": "TikTok",
-          "mentions": 21630
+          "mentions": 25056
         },
         {
           "platform": "X",
-          "mentions": 1945
+          "mentions": 2084
         },
         {
           "platform": "Pinterest",
-          "mentions": 10260
+          "mentions": 7112
         },
         {
           "platform": "Reddit",
-          "mentions": 1875
+          "mentions": 3440
         }
       ]
     },
@@ -273,14 +273,14 @@
       "id": "uk-trend-5",
       "rank": 5,
       "name": "matcha pastry",
-      "summary": "matcha pastry is trending in United Kingdom with 62/100 Google Trends score and 141 recent news articles",
+      "summary": "matcha pastry is trending in United Kingdom with 62/100 Google Trends score and 135 recent news articles",
       "category": "total",
       "examples": [
         "matcha pastry trend example 1",
         "matcha pastry trend example 2",
         "matcha pastry trend example 3"
       ],
-      "opportunity": "Capitalize on the matcha pastry trend with creative menu items and social content. Currently trending with 141 news mentions.",
+      "opportunity": "Capitalize on the matcha pastry trend with creative menu items and social content. Currently trending with 135 news mentions.",
       "hashtags": [
         "#matchapastry",
         "#bakerytok",
@@ -314,23 +314,23 @@
       "platformSignals": [
         {
           "platform": "Instagram",
-          "mentions": 15691
+          "mentions": 7685
         },
         {
           "platform": "TikTok",
-          "mentions": 19382
+          "mentions": 13370
         },
         {
           "platform": "X",
-          "mentions": 3573
+          "mentions": 4555
         },
         {
           "platform": "Pinterest",
-          "mentions": 5764
+          "mentions": 3740
         },
         {
           "platform": "Reddit",
-          "mentions": 3255
+          "mentions": 2225
         }
       ]
     },
@@ -338,14 +338,14 @@
       "id": "europe-trend-1",
       "rank": 1,
       "name": "tiramisu",
-      "summary": "tiramisu is trending in Europe with 83/100 Google Trends score and 130 recent news articles",
+      "summary": "tiramisu is trending in Europe with 90/100 Google Trends score and 244 recent news articles",
       "category": "sweet",
       "examples": [
         "tiramisu trend example 1",
         "tiramisu trend example 2",
         "tiramisu trend example 3"
       ],
-      "opportunity": "Capitalize on the tiramisu trend with creative menu items and social content. Currently trending with 130 news mentions.",
+      "opportunity": "Capitalize on the tiramisu trend with creative menu items and social content. Currently trending with 244 news mentions.",
       "hashtags": [
         "#tiramisu",
         "#bakerytok",
@@ -372,30 +372,30 @@
       ],
       "momentum": "rising",
       "growth": {
-        "week": 62,
-        "month": 42,
-        "year": 24
+        "week": 68,
+        "month": 47,
+        "year": 27
       },
       "platformSignals": [
         {
           "platform": "Instagram",
-          "mentions": 16880
+          "mentions": 5794
         },
         {
           "platform": "TikTok",
-          "mentions": 11760
+          "mentions": 19588
         },
         {
           "platform": "X",
-          "mentions": 2140
+          "mentions": 3882
         },
         {
           "platform": "Pinterest",
-          "mentions": 10520
+          "mentions": 6176
         },
         {
           "platform": "Reddit",
-          "mentions": 3200
+          "mentions": 1770
         }
       ]
     },
@@ -403,14 +403,14 @@
       "id": "europe-trend-2",
       "rank": 2,
       "name": "croissant",
-      "summary": "croissant is trending in Europe with 77/100 Google Trends score and 133 recent news articles",
+      "summary": "croissant is trending in Europe with 84/100 Google Trends score and 199 recent news articles",
       "category": "bread",
       "examples": [
         "croissant trend example 1",
         "croissant trend example 2",
         "croissant trend example 3"
       ],
-      "opportunity": "Capitalize on the croissant trend with creative menu items and social content. Currently trending with 133 news mentions.",
+      "opportunity": "Capitalize on the croissant trend with creative menu items and social content. Currently trending with 199 news mentions.",
       "hashtags": [
         "#croissant",
         "#bakerytok",
@@ -437,30 +437,30 @@
       ],
       "momentum": "steady",
       "growth": {
-        "week": 58,
-        "month": 40,
-        "year": 22
+        "week": 64,
+        "month": 44,
+        "year": 25
       },
       "platformSignals": [
         {
           "platform": "Instagram",
-          "mentions": 8883
+          "mentions": 7149
         },
         {
           "platform": "TikTok",
-          "mentions": 25766
+          "mentions": 12298
         },
         {
           "platform": "X",
-          "mentions": 3149
+          "mentions": 2947
         },
         {
           "platform": "Pinterest",
-          "mentions": 8532
+          "mentions": 11596
         },
         {
           "platform": "Reddit",
-          "mentions": 2215
+          "mentions": 2545
         }
       ]
     },
@@ -468,14 +468,14 @@
       "id": "europe-trend-3",
       "rank": 3,
       "name": "pistachio croissant",
-      "summary": "pistachio croissant is trending in Europe with 73/100 Google Trends score and 150 recent news articles",
+      "summary": "pistachio croissant is trending in Europe with 80/100 Google Trends score and 117 recent news articles",
       "category": "savoury",
       "examples": [
         "pistachio croissant trend example 1",
         "pistachio croissant trend example 2",
         "pistachio croissant trend example 3"
       ],
-      "opportunity": "Capitalize on the pistachio croissant trend with creative menu items and social content. Currently trending with 150 news mentions.",
+      "opportunity": "Capitalize on the pistachio croissant trend with creative menu items and social content. Currently trending with 117 news mentions.",
       "hashtags": [
         "#pistachiocroissant",
         "#bakerytok",
@@ -502,30 +502,30 @@
       ],
       "momentum": "cooling",
       "growth": {
-        "week": 56,
-        "month": 38,
-        "year": 22
+        "week": 62,
+        "month": 43,
+        "year": 25
       },
       "platformSignals": [
         {
           "platform": "Instagram",
-          "mentions": 7300
+          "mentions": 14267
         },
         {
           "platform": "TikTok",
-          "mentions": 22600
+          "mentions": 16534
         },
         {
           "platform": "X",
-          "mentions": 3400
+          "mentions": 4301
         },
         {
           "platform": "Pinterest",
-          "mentions": 12200
+          "mentions": 10068
         },
         {
           "platform": "Reddit",
-          "mentions": 3300
+          "mentions": 2135
         }
       ]
     },
@@ -533,14 +533,14 @@
       "id": "europe-trend-4",
       "rank": 4,
       "name": "macarons",
-      "summary": "macarons is trending in Europe with 70/100 Google Trends score and 65 recent news articles",
+      "summary": "macarons is trending in Europe with 77/100 Google Trends score and 178 recent news articles",
       "category": "laminated",
       "examples": [
         "macarons trend example 1",
         "macarons trend example 2",
         "macarons trend example 3"
       ],
-      "opportunity": "Capitalize on the macarons trend with creative menu items and social content. Currently trending with 65 news mentions.",
+      "opportunity": "Capitalize on the macarons trend with creative menu items and social content. Currently trending with 178 news mentions.",
       "hashtags": [
         "#macarons",
         "#bakerytok",
@@ -567,30 +567,30 @@
       ],
       "momentum": "accelerating",
       "growth": {
-        "week": 55,
-        "month": 38,
-        "year": 22
+        "week": 60,
+        "month": 42,
+        "year": 24
       },
       "platformSignals": [
         {
           "platform": "Instagram",
-          "mentions": 11815
+          "mentions": 8528
         },
         {
           "platform": "TikTok",
-          "mentions": 21630
+          "mentions": 25056
         },
         {
           "platform": "X",
-          "mentions": 1945
+          "mentions": 2084
         },
         {
           "platform": "Pinterest",
-          "mentions": 10260
+          "mentions": 7112
         },
         {
           "platform": "Reddit",
-          "mentions": 1875
+          "mentions": 3440
         }
       ]
     },
@@ -598,14 +598,14 @@
       "id": "europe-trend-5",
       "rank": 5,
       "name": "matcha pastry",
-      "summary": "matcha pastry is trending in Europe with 67/100 Google Trends score and 141 recent news articles",
+      "summary": "matcha pastry is trending in Europe with 74/100 Google Trends score and 135 recent news articles",
       "category": "total",
       "examples": [
         "matcha pastry trend example 1",
         "matcha pastry trend example 2",
         "matcha pastry trend example 3"
       ],
-      "opportunity": "Capitalize on the matcha pastry trend with creative menu items and social content. Currently trending with 141 news mentions.",
+      "opportunity": "Capitalize on the matcha pastry trend with creative menu items and social content. Currently trending with 135 news mentions.",
       "hashtags": [
         "#matchapastry",
         "#bakerytok",
@@ -632,30 +632,30 @@
       ],
       "momentum": "rising",
       "growth": {
-        "week": 53,
-        "month": 37,
-        "year": 21
+        "week": 59,
+        "month": 41,
+        "year": 24
       },
       "platformSignals": [
         {
           "platform": "Instagram",
-          "mentions": 15691
+          "mentions": 7685
         },
         {
           "platform": "TikTok",
-          "mentions": 19382
+          "mentions": 13370
         },
         {
           "platform": "X",
-          "mentions": 3573
+          "mentions": 4555
         },
         {
           "platform": "Pinterest",
-          "mentions": 5764
+          "mentions": 3740
         },
         {
           "platform": "Reddit",
-          "mentions": 3255
+          "mentions": 2225
         }
       ]
     },
@@ -663,14 +663,14 @@
       "id": "usa-trend-1",
       "rank": 1,
       "name": "tiramisu",
-      "summary": "tiramisu is trending in United States with 97/100 Google Trends score and 130 recent news articles",
+      "summary": "tiramisu is trending in United States with 92/100 Google Trends score and 244 recent news articles",
       "category": "sweet",
       "examples": [
         "tiramisu trend example 1",
         "tiramisu trend example 2",
         "tiramisu trend example 3"
       ],
-      "opportunity": "Capitalize on the tiramisu trend with creative menu items and social content. Currently trending with 130 news mentions.",
+      "opportunity": "Capitalize on the tiramisu trend with creative menu items and social content. Currently trending with 244 news mentions.",
       "hashtags": [
         "#tiramisu",
         "#bakerytok",
@@ -697,30 +697,30 @@
       ],
       "momentum": "rising",
       "growth": {
-        "week": 73,
-        "month": 51,
-        "year": 29
+        "week": 69,
+        "month": 48,
+        "year": 27
       },
       "platformSignals": [
         {
           "platform": "Instagram",
-          "mentions": 16880
+          "mentions": 5794
         },
         {
           "platform": "TikTok",
-          "mentions": 11760
+          "mentions": 19588
         },
         {
           "platform": "X",
-          "mentions": 2140
+          "mentions": 3882
         },
         {
           "platform": "Pinterest",
-          "mentions": 10520
+          "mentions": 6176
         },
         {
           "platform": "Reddit",
-          "mentions": 3200
+          "mentions": 1770
         }
       ]
     },
@@ -728,14 +728,14 @@
       "id": "usa-trend-2",
       "rank": 2,
       "name": "croissant",
-      "summary": "croissant is trending in United States with 91/100 Google Trends score and 133 recent news articles",
+      "summary": "croissant is trending in United States with 86/100 Google Trends score and 199 recent news articles",
       "category": "bread",
       "examples": [
         "croissant trend example 1",
         "croissant trend example 2",
         "croissant trend example 3"
       ],
-      "opportunity": "Capitalize on the croissant trend with creative menu items and social content. Currently trending with 133 news mentions.",
+      "opportunity": "Capitalize on the croissant trend with creative menu items and social content. Currently trending with 199 news mentions.",
       "hashtags": [
         "#croissant",
         "#bakerytok",
@@ -762,30 +762,30 @@
       ],
       "momentum": "steady",
       "growth": {
-        "week": 69,
-        "month": 48,
-        "year": 28
+        "week": 65,
+        "month": 45,
+        "year": 26
       },
       "platformSignals": [
         {
           "platform": "Instagram",
-          "mentions": 8883
+          "mentions": 7149
         },
         {
           "platform": "TikTok",
-          "mentions": 25766
+          "mentions": 12298
         },
         {
           "platform": "X",
-          "mentions": 3149
+          "mentions": 2947
         },
         {
           "platform": "Pinterest",
-          "mentions": 8532
+          "mentions": 11596
         },
         {
           "platform": "Reddit",
-          "mentions": 2215
+          "mentions": 2545
         }
       ]
     },
@@ -793,14 +793,14 @@
       "id": "usa-trend-3",
       "rank": 3,
       "name": "pistachio croissant",
-      "summary": "pistachio croissant is trending in United States with 87/100 Google Trends score and 150 recent news articles",
+      "summary": "pistachio croissant is trending in United States with 82/100 Google Trends score and 117 recent news articles",
       "category": "savoury",
       "examples": [
         "pistachio croissant trend example 1",
         "pistachio croissant trend example 2",
         "pistachio croissant trend example 3"
       ],
-      "opportunity": "Capitalize on the pistachio croissant trend with creative menu items and social content. Currently trending with 150 news mentions.",
+      "opportunity": "Capitalize on the pistachio croissant trend with creative menu items and social content. Currently trending with 117 news mentions.",
       "hashtags": [
         "#pistachiocroissant",
         "#bakerytok",
@@ -827,30 +827,30 @@
       ],
       "momentum": "cooling",
       "growth": {
-        "week": 67,
-        "month": 47,
-        "year": 27
+        "week": 63,
+        "month": 44,
+        "year": 25
       },
       "platformSignals": [
         {
           "platform": "Instagram",
-          "mentions": 7300
+          "mentions": 14267
         },
         {
           "platform": "TikTok",
-          "mentions": 22600
+          "mentions": 16534
         },
         {
           "platform": "X",
-          "mentions": 3400
+          "mentions": 4301
         },
         {
           "platform": "Pinterest",
-          "mentions": 12200
+          "mentions": 10068
         },
         {
           "platform": "Reddit",
-          "mentions": 3300
+          "mentions": 2135
         }
       ]
     },
@@ -858,14 +858,14 @@
       "id": "usa-trend-4",
       "rank": 4,
       "name": "macarons",
-      "summary": "macarons is trending in United States with 84/100 Google Trends score and 65 recent news articles",
+      "summary": "macarons is trending in United States with 79/100 Google Trends score and 178 recent news articles",
       "category": "laminated",
       "examples": [
         "macarons trend example 1",
         "macarons trend example 2",
         "macarons trend example 3"
       ],
-      "opportunity": "Capitalize on the macarons trend with creative menu items and social content. Currently trending with 65 news mentions.",
+      "opportunity": "Capitalize on the macarons trend with creative menu items and social content. Currently trending with 178 news mentions.",
       "hashtags": [
         "#macarons",
         "#bakerytok",
@@ -892,30 +892,30 @@
       ],
       "momentum": "accelerating",
       "growth": {
-        "week": 66,
-        "month": 46,
-        "year": 27
+        "week": 62,
+        "month": 43,
+        "year": 25
       },
       "platformSignals": [
         {
           "platform": "Instagram",
-          "mentions": 11815
+          "mentions": 8528
         },
         {
           "platform": "TikTok",
-          "mentions": 21630
+          "mentions": 25056
         },
         {
           "platform": "X",
-          "mentions": 1945
+          "mentions": 2084
         },
         {
           "platform": "Pinterest",
-          "mentions": 10260
+          "mentions": 7112
         },
         {
           "platform": "Reddit",
-          "mentions": 1875
+          "mentions": 3440
         }
       ]
     },
@@ -923,14 +923,14 @@
       "id": "usa-trend-5",
       "rank": 5,
       "name": "matcha pastry",
-      "summary": "matcha pastry is trending in United States with 81/100 Google Trends score and 141 recent news articles",
+      "summary": "matcha pastry is trending in United States with 76/100 Google Trends score and 135 recent news articles",
       "category": "total",
       "examples": [
         "matcha pastry trend example 1",
         "matcha pastry trend example 2",
         "matcha pastry trend example 3"
       ],
-      "opportunity": "Capitalize on the matcha pastry trend with creative menu items and social content. Currently trending with 141 news mentions.",
+      "opportunity": "Capitalize on the matcha pastry trend with creative menu items and social content. Currently trending with 135 news mentions.",
       "hashtags": [
         "#matchapastry",
         "#bakerytok",
@@ -957,30 +957,30 @@
       ],
       "momentum": "rising",
       "growth": {
-        "week": 64,
-        "month": 45,
-        "year": 27
+        "week": 60,
+        "month": 42,
+        "year": 25
       },
       "platformSignals": [
         {
           "platform": "Instagram",
-          "mentions": 15691
+          "mentions": 7685
         },
         {
           "platform": "TikTok",
-          "mentions": 19382
+          "mentions": 13370
         },
         {
           "platform": "X",
-          "mentions": 3573
+          "mentions": 4555
         },
         {
           "platform": "Pinterest",
-          "mentions": 5764
+          "mentions": 3740
         },
         {
           "platform": "Reddit",
-          "mentions": 3255
+          "mentions": 2225
         }
       ]
     }
